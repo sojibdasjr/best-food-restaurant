@@ -44,6 +44,11 @@ body{font-family: 'Ubuntu', sans-serif;
     color: white;
     border-radius: 10px;
 }
+.link-media:hover{
+    font-size: 30px;
+    color: white;
+    background-color: purple;
+}
 
 .background{
     background-image: url(images/7.png);
